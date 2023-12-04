@@ -15,7 +15,7 @@ Access the [Backend](https://github.com/maxfideles/suneasyapi) and [Frontend](ht
 
 ### Nginx
 
-On this project, Nginx serves a dual purpose: acting as a reverse proxy and providing load balancing capabilities. If you want to learn how to set up Nginx for your project, I have created a helpful [video tutorial](https://www.youtube.com/watch?v%253Dqq8lwam52ns), which you can access here. 
+On this project, Nginx serves a dual purpose: acting as a reverse proxy and providing load balancing capabilities. If you want to learn how to set up Nginx for your project, I have created a helpful [video tutorial](https://youtu.be/qq8lwam52ns), which you can access here. 
 
 Additionally, the Nginx configuration file (nginx.conf) can be found on our GitHub repository [here](https://github.com/maxfideles/suneasy-project/blob/main/nginx.conf).
 
