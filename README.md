@@ -1,7 +1,12 @@
 # SunEasy
 
 ## Overview
-I'm currently developing a full-stack project that serves as a comprehensive catalog for Solar Panels and Inverters. To achieve high scalability and maintain a robust architecture, we have chosen to leverage **Spring Boot** to implement a microservices approach.
+A full-stack project that provides in a website the data and tools to project and study about solar energy systems. The main goals are:
+ - To support solar energy companies with a precise simulator
+ - To support students and researchs to have solar irradiations data for any city in Brazil
+ - To provide a comprehensive  catalog for Solar Panels and Inverters
+   
+To achieve high scalability and maintain a robust architecture, I have chosen to leverage **Spring Boot** to implement a microservices approach.
 
 The project is designed with horizontal scalability in mind, and for that purpose, I am utilizing Nginx as both a Reverse Proxy and a Load Balancer. Additionally, I have incorporated Redis for caching, enhancing the overall performance and responsiveness of our application.
 
